@@ -1,0 +1,79 @@
+Here’s a more visually appealing version of the README with emojis:
+
+---
+
+# my_add_sub_package ✨
+
+A simple and easy-to-use command-line package for performing basic addition and subtraction operations, built with Node.js. 🎉 It asks users to input two numbers and choose between addition or subtraction, then calculates and displays the result. 💡
+
+## 🚀 Features
+
+- ➕ Add two numbers.
+- ➖ Subtract two numbers.
+- 🎯 Easy-to-use command-line interface (CLI).
+- ⚡ Fast and simple operations with minimal dependencies.
+
+## 🛠️ Installation
+
+### 🔥 Globally Install the Package
+
+To install `my_add_sub_package` globally on your system, run the following command:
+
+```bash
+npm install -g @dovakhin/my_add_sub_package
+```
+
+Once installed, you can easily use the package via the command line. 🚀
+
+## 📝 Usage
+
+After installing the package, you can run it by typing the following command:
+
+```bash
+calculator-cli
+```
+
+### Steps:
+1. ✍️ The program will prompt you to enter the first number.
+2. ✍️ Next, you’ll be asked for the second number.
+3. 🧮 Then, the program will ask whether you want to **add** or **subtract** the numbers.
+4. 📊 The result will be displayed based on your choice.
+
+## 💡 Example
+
+```bash
+$ calculator-cli
+Enter the first number: 5
+Enter the second number: 3
+What operation would you like to perform? (add/subtract): add
+Result: 5 + 3 = 8
+```
+
+## 🛠️ Development
+
+### 💻 Clone the Repository
+
+If you'd like to contribute or use the package locally, clone the repository:
+
+```bash
+git clone https://github.com/yourusername/my_add_sub_package.git
+cd my_add_sub_package
+```
+
+### ⚙️ Run the Application Locally
+
+Install the required dependencies:
+
+```bash
+npm install
+```
+
+Then, you can run the package locally using:
+
+```bash
+node index.js
+```
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 🏷️

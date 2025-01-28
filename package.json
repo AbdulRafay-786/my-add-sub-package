@@ -1,0 +1,17 @@
+{
+  "name": "@dovakhin/my_add_sub_package",
+  "version": "1.0.0",
+  "description": "A simple add and subtract package",
+  "main": "index.js",
+  "bin": {
+    "calculator-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
