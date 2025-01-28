@@ -1,6 +1,6 @@
 {
   "name": "@dovakhin/my_add_sub_package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple add and subtract package",
   "main": "index.js",
   "bin": {
